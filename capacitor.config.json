@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Jerusalem Luxuries",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
